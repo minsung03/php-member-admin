@@ -1,0 +1,9 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{text-decoration: none;}
+header{text-align: center; height: 100px; line-height: 100px; background: #4267B2; color: #fff;}
+nav{background: #aa86e2; height: 50px; line-height: 50px;}
+nav>a{color: #fff; margin: 0 30px;}
+section{ background: #ccc; height: 75vh;}
+section>h2{text-align: center;}
+main{line-height: 30px; padding: 0 5px;}
+footer{text-align: center; height: 100px; line-height: 100px; background: #4267B2; color: #fff;}
