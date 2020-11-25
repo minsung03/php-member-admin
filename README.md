@@ -2,6 +2,8 @@
 
 ### 2020-11-25
 
+#### xampp 오류명
+
 ```
   오후 12:58:11  [mysql] 	Attempting to start MySQL service...
   오후 12:58:15  [mysql] 	Status change detected: running
